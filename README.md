@@ -6,3 +6,5 @@ Writing PowerShell binary modules now requires to understood couple concepts:
 - .NET Standard API
 
 Slide below summarize what I learnt and code helps to understood.
+
+![Create database](Images/PowerShellAndPowerShellCore-BinaryModules.png)
