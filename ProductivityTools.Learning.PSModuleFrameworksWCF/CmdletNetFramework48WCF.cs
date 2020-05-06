@@ -13,7 +13,7 @@ namespace ProductivityTools.Learning.PSModuleFrameworks.NetFramework48WCF
         protected override void ProcessRecord()
         {
             System.ServiceModel.ServiceHost host = new System.ServiceModel.ServiceHost(typeof(Service1));
-            WriteObject("Hello from NetFramework48WCF");
+            WriteObject("Hello from NetFramework48WCF"); 
         }
     }
 
