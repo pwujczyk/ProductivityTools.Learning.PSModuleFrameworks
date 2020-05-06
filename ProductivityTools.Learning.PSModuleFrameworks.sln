@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductivityTools.Learning.PSModuleFrameworks.NetFramework48", "ProductivityTools.Learning.PSModuleFrameworks.NetFramework48\ProductivityTools.Learning.PSModuleFrameworks.NetFramework48.csproj", "{2D43DDB8-E31F-4DB1-8B92-1C82B0A45B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductivityTools.Learning.PSModuleFrameworks.NetStandard20", "ProductivityTools.Learning.PSModuleFrameworks.NetStandard\ProductivityTools.Learning.PSModuleFrameworks.NetStandard20.csproj", "{954954A9-C5C8-489C-A638-1A4156E4F040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D43DDB8-E31F-4DB1-8B92-1C82B0A45B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D43DDB8-E31F-4DB1-8B92-1C82B0A45B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D43DDB8-E31F-4DB1-8B92-1C82B0A45B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D43DDB8-E31F-4DB1-8B92-1C82B0A45B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954954A9-C5C8-489C-A638-1A4156E4F040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954954A9-C5C8-489C-A638-1A4156E4F040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954954A9-C5C8-489C-A638-1A4156E4F040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954954A9-C5C8-489C-A638-1A4156E4F040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06419501-808D-430E-95A2-D88E455B2AF0}
+	EndGlobalSection
+EndGlobal
