@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductivityTools.Learning.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductivityTools.Learning.PSModuleFrameworks.NetStandard20", "ProductivityTools.Learning.PSModuleFrameworks.NetStandard\ProductivityTools.Learning.PSModuleFrameworks.NetStandard20.csproj", "{954954A9-C5C8-489C-A638-1A4156E4F040}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductivityTools.Learning.PSModuleFrameworks.NetCore31", "ProductivityTools.Learning.PSModuleFrameworks.NetCore31\ProductivityTools.Learning.PSModuleFrameworks.NetCore31.csproj", "{A4791CB2-0F56-481C-870E-036ADEA6A078}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{954954A9-C5C8-489C-A638-1A4156E4F040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954954A9-C5C8-489C-A638-1A4156E4F040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954954A9-C5C8-489C-A638-1A4156E4F040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4791CB2-0F56-481C-870E-036ADEA6A078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4791CB2-0F56-481C-870E-036ADEA6A078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4791CB2-0F56-481C-870E-036ADEA6A078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4791CB2-0F56-481C-870E-036ADEA6A078}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
